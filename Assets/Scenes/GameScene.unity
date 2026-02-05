@@ -163,6 +163,8 @@ MonoBehaviour:
   rotateSpeed: 720
   gameInput: {fileID: 443276892}
   visual: {fileID: 1092264574}
+  interactDistance: 2
+  interactRange: 9
 --- !u!4 &344576265
 Transform:
   m_ObjectHideFlags: 0
